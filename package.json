@@ -12,7 +12,7 @@
     "url": "git+https://github.com/julianghionoiu/tdl-warmup.git"
   },
   "dependencies": {
-    "properties-reader": "0.0.15",
+    "properties-reader": "2.2.0",
     "tdl-client-nodejs": "0.26.3"
   },
   "devDependencies": {
